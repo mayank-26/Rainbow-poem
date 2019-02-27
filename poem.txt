@@ -6,4 +6,5 @@ G=GREEN
 Y=YELLOW
 O=ORANGE
 R=RED
+and it Blooms like a flower.
 A rainbow is caused by sunlight and atmospheric conditions. Light enters a water droplet, slowing down and bending as it goes from air to denser water. The light reflects off the inside of the droplet, separating into its component wavelengths--or colors. When light exits the droplet, it makes a rainbow.
