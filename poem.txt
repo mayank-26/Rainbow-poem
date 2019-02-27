@@ -1,2 +1,8 @@
 The rainbow Poem!!
 With VIBGYOR.
+V=VIOLET
+I=INDIGO
+G=GREEN
+Y=YELLOW
+O=ORANGE
+R=RED
